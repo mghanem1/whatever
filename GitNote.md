@@ -27,3 +27,5 @@ heyhyehy
 
 
 akljsfkljsdakl;fjd
+
+* `git diff`: shows changes not yet tracked
